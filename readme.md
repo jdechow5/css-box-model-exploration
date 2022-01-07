@@ -14,14 +14,13 @@
 
 _This single page is just an exploration into using CSS and the box model_
 _Our dev group at Epicodus was having some issues with getting scaling to work properly during browser window size changes._
-_After class was over for the day, I decided to take a crack at it and was able to get the CSS_
+_After class was over for the day, I re-created the issue and was able to get the CSS_
 _to scale properly when the window size changes._
 
-_I did this by utilizing display:inline for certain 
 
 ## Setup/Installation Requirements
 
-* _To view this page, please navigate to https://mikah-mathews.github.io/band-site/_
+* _To view this page, please navigate to https://dlinds.github.io/css-box-model-exploration/_
 
 ## Known Bugs
 
@@ -30,6 +29,6 @@ _I did this by utilizing display:inline for certain
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_MIT_
 
-Copyright (c) _1/22_ _Daniel Lindsey and Mikah Mathews_
+Copyright (c) _01/07/2022_ _Daniel Lindsey_
