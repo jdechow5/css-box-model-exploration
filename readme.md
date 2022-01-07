@@ -1,8 +1,8 @@
 # _ODESZA Website_
 
-#### By _**Daniel Lindsey and Mikah Mathews**_
+#### By _**Daniel Lindsey**_
 
-#### _This website will be for the band ODESZA_
+#### _Exploration of CSS and box model_
 
 ## Technologies Used
 
@@ -12,7 +12,12 @@
 
 ## Description
 
-_This website will have links to music videos, upcoming shows, and a merch section_
+_This single page is just an exploration into using CSS and the box model_
+_Our dev group at Epicodus was having some issues with getting scaling to work properly during browser window size changes._
+_After class was over for the day, I decided to take a crack at it and was able to get the CSS_
+_to scale properly when the window size changes._
+
+_I did this by utilizing display:inline for certain 
 
 ## Setup/Installation Requirements
 
